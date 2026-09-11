@@ -1,0 +1,16 @@
+.telos-gym-schedule-settings .submit-inline {
+	margin: 6px 0 4px;
+}
+
+.telos-gym-schedule-test-result {
+	margin-left: 8px;
+	font-weight: 600;
+}
+
+.telos-gym-schedule-test-result.is-ok {
+	color: #1a7f37;
+}
+
+.telos-gym-schedule-test-result.is-fail {
+	color: #d63638;
+}
