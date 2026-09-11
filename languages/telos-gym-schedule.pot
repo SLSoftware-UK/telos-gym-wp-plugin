@@ -1,0 +1,178 @@
+# Copyright (C) 2026 TelosGym
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TelosGym Schedule 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/telos-gym-wp-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-09-11T16:35:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: telos-gym-schedule\n"
+
+#. Plugin Name of the plugin
+#: includes/class-settings-page.php:19
+#: includes/class-settings-page.php:20
+#: includes/class-settings-page.php:92
+#: build/index.js:1
+#: src/index.js:35
+msgid "TelosGym Schedule"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://telosgym.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display your TelosGym class schedule on your WordPress site with a shortcode or block."
+msgstr ""
+
+#. Author of the plugin
+msgid "TelosGym"
+msgstr ""
+
+#: includes/class-key-validator.php:23
+msgid "Not allowed."
+msgstr ""
+
+#: includes/class-key-validator.php:30
+msgid "No key saved yet."
+msgstr ""
+
+#: includes/class-render.php:19
+msgid "TelosGym Schedule: no embed key configured yet. Add one under Settings → TelosGym Schedule."
+msgstr ""
+
+#: includes/class-settings-page.php:51
+msgid "That doesn't look like a valid TelosGym embed key — it was not saved."
+msgstr ""
+
+#: includes/class-settings-page.php:77
+msgid "Testing…"
+msgstr ""
+
+#: includes/class-settings-page.php:78
+msgid "Connected"
+msgstr ""
+
+#: includes/class-settings-page.php:79
+msgid "Invalid key or origin mismatch"
+msgstr ""
+
+#: includes/class-settings-page.php:80
+msgid "Enter a key first"
+msgstr ""
+
+#: includes/class-settings-page.php:98
+msgid "Embed key"
+msgstr ""
+
+#: includes/class-settings-page.php:106
+msgid "•••••••• (saved — leave blank to keep)"
+msgstr ""
+
+#: includes/class-settings-page.php:106
+msgid "Paste the key from TelosGym Settings → External embeds"
+msgstr ""
+
+#: includes/class-settings-page.php:109
+msgid "Test connection"
+msgstr ""
+
+#: includes/class-settings-page.php:113
+msgid "Get this from your TelosGym staff dashboard: Settings → External embeds → Create key. Use this site's URL as the allowed origin."
+msgstr ""
+
+#: includes/class-settings-page.php:118
+msgid "Accent colour"
+msgstr ""
+
+#: includes/class-settings-page.php:131
+msgid "Font"
+msgstr ""
+
+#: includes/class-settings-page.php:134
+msgid "Match theme"
+msgstr ""
+
+#: includes/class-settings-page.php:135
+msgid "System font"
+msgstr ""
+
+#: includes/class-settings-page.php:144
+msgid "How to show your schedule"
+msgstr ""
+
+#: includes/class-settings-page.php:146
+msgid "Classic editor or page builder — paste this shortcode:"
+msgstr ""
+
+#: includes/class-settings-page.php:150
+msgid "Block editor — search the block inserter for \"TelosGym Schedule\"."
+msgstr ""
+
+#: build/index.js:1
+#: src/index.js:17
+msgid "Schedule settings"
+msgstr ""
+
+#: build/index.js:1
+#: src/index.js:19
+msgid "Days to show"
+msgstr ""
+
+#: build/index.js:1
+#: src/index.js:26
+msgid "Accent colour override"
+msgstr ""
+
+#: build/index.js:1
+#: src/index.js:27
+msgid "Leave blank to use the plugin-wide colour from Settings."
+msgstr ""
+
+#: build/index.js:1
+#: src/index.js:36
+msgid "Live schedule will appear here."
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block title"
+msgid "TelosGym Schedule"
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block description"
+msgid "Display your TelosGym class schedule."
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block keyword"
+msgid "schedule"
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block keyword"
+msgid "gym"
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block keyword"
+msgid "fitness"
+msgstr ""
+
+#: build/block.json
+#: src/block.json
+msgctxt "block keyword"
+msgid "classes"
+msgstr ""
