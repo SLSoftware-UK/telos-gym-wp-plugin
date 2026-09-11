@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "telos-gym-schedule/schedule",
+	"title": "TelosGym Schedule",
+	"category": "widgets",
+	"icon": "calendar-alt",
+	"description": "Display your TelosGym class schedule.",
+	"keywords": [ "schedule", "gym", "fitness", "classes" ],
+	"version": "1.0.0",
+	"textdomain": "telos-gym-schedule",
+	"attributes": {
+		"days": { "type": "number", "default": 14 },
+		"accentColor": { "type": "string", "default": "" }
+	},
+	"supports": { "html": false },
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css"
+}
